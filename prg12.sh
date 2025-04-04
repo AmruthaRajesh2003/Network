@@ -10,3 +10,8 @@ for ((i=0;i<${#line};i++));do
    esac
 done
 echo "The number of vowels in the line of text is:$vowel_count"
+
+output::
+Enter a line of text:
+welcome
+The number of vowels in the line of text is:3
