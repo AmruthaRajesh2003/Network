@@ -9,3 +9,9 @@ do
 done
 
 echo "The sum of the squares of the digits is $sum."
+
+output::
+Enter a number:
+123
+The sum of the squares of the digits is 14.
+
